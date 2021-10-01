@@ -4,6 +4,9 @@ https://stackoverflow.com/questions/24098792/how-to-force-github-pages-build
 
 // Reference: http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/
 
+git commit -m 'rebuild pages' --allow-empty
+git push origin <branch-name>
+
 git add .
 git status // to see what changes are going to be commited
 git commit -m 'Some descriptive commit message'
