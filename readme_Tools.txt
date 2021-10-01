@@ -19,3 +19,9 @@ git checkout master // return to the master branch
 
 
 https://www.binary-kitchen.de/wiki/infra:workadventure:maps
+
+
+https://play.workadventu.re/_/global/jonasesser.github.io/infrastructure-map/map.json
+https://jonasesser.github.io/infrastructure-map/map.json
+
+https://git.chaospott.de/Workadventure/workadventure.git
