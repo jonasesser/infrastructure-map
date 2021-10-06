@@ -30,3 +30,8 @@ This project contains multiple licenses:
 If you add third party assets in your map, do not forget to:
 1. Credit the author and license with the "tilesetCopyright" property present in the properties of each tilesets in the `map.json` file
 2. Add the license text in LICENSE.assets
+
+###Credits
+
+1. Icon Set used from Stockio.com https://www.stockio.com/free-icon/conner-icon-set-do-not-disturb. 
+   Exclusive Free Icon by Stockio.com. Free for personal and commercial use. Not for sale or redistribution.
