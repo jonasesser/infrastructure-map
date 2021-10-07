@@ -35,3 +35,5 @@ If you add third party assets in your map, do not forget to:
 
 1. Icon Set used from Stockio.com https://www.stockio.com/free-icon/conner-icon-set-do-not-disturb. 
    Exclusive Free Icon by Stockio.com. Free for personal and commercial use. Not for sale or redistribution.
+   You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video).
+2. Music: https://www.bensound.com Thanks!
