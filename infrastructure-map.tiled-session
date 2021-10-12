@@ -7,10 +7,94 @@
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "map.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 683,
+                "y": 360
+            }
+        },
+        "map.json#ALL": {
+            "scaleInDock": 1
+        },
+        "map.json#LPC-objects-plants-fish-submissions-outside": {
+            "scaleInDock": 1
+        },
+        "map.json#LPC-terrains-subimissions-outside": {
+            "scaleInDock": 1
+        },
+        "map.json#Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.json#imperialLogo": {
+            "scaleInDock": 1
+        },
+        "map.json#plants": {
+            "scaleInDock": 1
+        },
+        "map.json#textTuto3": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset5_export": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset6_export": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 450.66666666666663,
+                "y": -78.66666666666663
+            }
+        },
+        "map_infrastructure.json#ALL": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#LPC-objects-plants-fish-submissions-outside": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#LPC-terrains-subimissions-outside": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#imperialLogo": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#plants": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#textTuto3": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#tileset5_export": {
+            "scaleInDock": 1
+        },
+        "map_infrastructure.json#tileset6_export": {
+            "scaleInDock": 1
+        }
     },
+    "map.lastUsedFormat": "json",
     "openFiles": [
     ],
     "project": "infrastructure-map.tiled-project",
     "recentFiles": [
+        "map_infrastructure.json"
     ]
 }
