@@ -58,7 +58,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"spaceship"
+                 "value":"https:\/\/play.workadventu.re\/@\/imperiallogistics\/imperiallogistics\/spaceship"
                 }],
          "type":"tilelayer",
          "visible":true,
