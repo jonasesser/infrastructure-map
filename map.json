@@ -58,7 +58,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map_infrastructure.json"
+                 "value":"spaceship"
                 }],
          "type":"tilelayer",
          "visible":true,

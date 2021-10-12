@@ -9,7 +9,7 @@
     "fileStates": {
         "map.json": {
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 21,
             "viewCenter": {
                 "x": 683,
                 "y": 360
@@ -50,9 +50,9 @@
         },
         "map_infrastructure.json": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 450.66666666666663,
+                "x": 401.33333333333326,
                 "y": -78.66666666666663
             }
         },
