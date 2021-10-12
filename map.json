@@ -398,14 +398,13 @@
                     {
                      "color":"#ff557f",
                      "fontfamily":"MS Shell Dlg 2",
-                     "halign":"center",
                      "pixelsize":19,
                      "text":"Wartebereich"
                     },
                  "type":"",
                  "visible":true,
                  "width":147.495,
-                 "x":53.2525,
+                 "x":70.2525,
                  "y":34.33335
                 }, 
                 {
@@ -417,15 +416,14 @@
                     {
                      "color":"#aa007f",
                      "fontfamily":"MS Shell Dlg 2",
-                     "halign":"center",
                      "pixelsize":11,
                      "text":"Wir sind gleich f\u00fcr Sie da!"
                     },
                  "type":"",
                  "visible":true,
                  "width":151.495,
-                 "x":53.2524999999999,
-                 "y":72.66665
+                 "x":69.2524999999999,
+                 "y":67.66665
                 }],
          "opacity":1,
          "type":"objectgroup",
